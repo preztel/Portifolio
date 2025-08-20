@@ -1,4 +1,4 @@
-# Jensen Omega - Portfolio Website
+# Elias A. Elvsaas - Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a dark theme with orange accents, smooth animations, and mobile-first design.
 
